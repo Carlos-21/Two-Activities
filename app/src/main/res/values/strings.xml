@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Two Activities</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="texto_cabecera">Mensaje recibido</string>
+    <string name="texto_ingreso_principal">Ingrese su mensaje aqui</string>
+    <string name="boton_respuesta">Respuesta</string>
+    <string name="texto_ingreso_secundario">Ingrese su respuesta aqui</string>
+    <string name="texto_cabecera_respuesta">Respuesta recibida</string>
+</resources>
